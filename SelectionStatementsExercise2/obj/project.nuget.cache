@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "QtYDNCpBFoQH53Fq6ZqlasZYBykGQu3MSrz0bQSo7Qmxx/AGCzgcOkz7WXxyRznzeeQcg0eUIbeOK0FYPQJ4IA==",
+  "dgSpecHash": "7QSdJA+1a2i9fg6oasxgbns6sG1Dvmzl0QeHkoypXnjpvr7HV4PZMmfrOno2VyBAiApwplsxYXGjeeS+8VDPxw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\andre\\OneDrive\\Desktop\\new\\SelectionStatementsExercise2\\SelectionStatementsExercise2\\SelectionStatementsExercise2.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/home/tiago/projects/TrueCoders/Selection-Statement-Exercise-2/SelectionStatementsExercise2/SelectionStatementsExercise2.csproj",
+  "expectedPackageFiles": [
+    "/home/tiago/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.13/microsoft.aspnetcore.app.ref.6.0.13.nupkg.sha512",
+    "/home/tiago/.nuget/packages/microsoft.netcore.app.host.linux-x64/6.0.13/microsoft.netcore.app.host.linux-x64.6.0.13.nupkg.sha512"
+  ],
   "logs": []
 }
